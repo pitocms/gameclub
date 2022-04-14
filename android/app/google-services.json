@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800380653495",
+    "project_id": "game-club-62018",
+    "storage_bucket": "game-club-62018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800380653495:android:64e68a690d8d366913e232",
+        "android_client_info": {
+          "package_name": "jp.gameclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800380653495-dmpqjj7le9gap48l5o1vdmrv9o3u7gti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Nzf5-8V2EqvxiCRZyxHLYF2auS7x7ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800380653495-dmpqjj7le9gap48l5o1vdmrv9o3u7gti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
